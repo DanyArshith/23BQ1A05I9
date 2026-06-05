@@ -1,0 +1,12 @@
+{
+  "name": "23bq1a05i9",
+  "version": "1.0.0",
+  "main": "vehicle_maintenance/server.js",
+  "scripts": {
+    "start": "node vehicle_maintenance/server.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
